@@ -1,6 +1,6 @@
 # FeedingRobot
 Final Project for the robotics class at University of Houston by Dr. Aaron Becker.
-We programmed an assistive task: the robot can detect pieces of food with vision processing and feed a human.
+We programmed a UR Robot that detect pieces of food with vision processing to feed a human. 
 ![alt text](https://github.com/GuillermoHra/FeedingRobot/blob/master/IntroImage.png)
 
 In this project we used a UR3 robot and a USB camera compatible with Matlab (you can find a cheap one here: https://www.amazon.com/Sea-Wit-Recording-Computer-External/dp/B074252LWL/ref=sr_1_14?s=pc&ie=UTF8&qid=1512875748&sr=1-14&keywords=usb+camera).
