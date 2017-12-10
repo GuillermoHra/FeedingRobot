@@ -11,3 +11,4 @@ A socket is created in FinalRoboticsProject.m, it sends the commands to the UR c
 FinalRoboticsProject.m uses the function AutoThreshold for the vision processing (blob detection, connected components, centroids).
 
 We also designed a holder for the camera, I think it works with all the UR robots: UR3, UR5, UR10.
+![alt text](https://github.com/GuillermoHra/FeedingRobot/blob/master/CameraHolder.png)
